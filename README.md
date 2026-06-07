@@ -1,5 +1,8 @@
 oopser i accidentally logged out without setting 2fa so i lost the previous account...
 
+anyways
+
+![Luau](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Luau_Logo_2025_%28Programming_Lanaguage%29.svg/250px-Luau_Logo_2025_%28Programming_Lanaguage%29.svg.png)
 ## Hi there 👋
 
 <!--
